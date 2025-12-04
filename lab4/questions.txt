@@ -1,0 +1,6 @@
+lab - 4 : Function in python
+Objective: 
+- To understand the syntax of Function in python
+- To calculate factorial of a number using recursive Function
+- WAP that returns multiple values using Function
+- WAP to check whether a number is even or odd using Function
